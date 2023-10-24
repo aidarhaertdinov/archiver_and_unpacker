@@ -1,0 +1,11 @@
+# Environments
+.env
+.venv
+
+# Editors
+.idea/
+.vscode/
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
